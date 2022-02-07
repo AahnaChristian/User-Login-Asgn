@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(6, 5, 70);
+}
+
+body {
+    color: rgb(255, 251, 0);
+    text-align: left;
+    padding-top: 120px;
+    width: 600px;
+    margin-left: 565px;
+    margin-right: 65px;
+}
+
+h1 {
+    text-shadow: 2px 3px rgb(123, 255, 0);
+}
+
+.Inputs {
+    width: 145px;
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
